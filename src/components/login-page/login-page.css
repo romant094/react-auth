@@ -1,0 +1,13 @@
+.login .btn{
+    margin-top: 50px;
+    background-color: #ccf;
+    border: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+.login .btn:hover{
+    background-color: #88f;
+}
