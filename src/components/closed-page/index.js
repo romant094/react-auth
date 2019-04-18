@@ -4,7 +4,7 @@ import {Redirect} from 'react-router-dom';
 const ClosedPage = ({isLoggedIn}) => {
     if (isLoggedIn) {
         return (
-            <h2>The <span className="text-color--green">closed</span> content in now opened...</h2>
+            <h2>The <span className="text-color--green">closed</span> content is now opened...</h2>
         )
 
     }

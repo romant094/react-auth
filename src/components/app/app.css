@@ -34,6 +34,10 @@
 .App-links a {
     margin-right: 10px;
     color: #fff;
+    text-decoration: none;
+}
+.App-links a:hover{
+    text-decoration: underline;
 }
 
 .App-links a:hover {
